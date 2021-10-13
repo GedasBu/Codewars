@@ -32,7 +32,7 @@ function validParentheses(parens){
            
           } while (parens[l]!==')')
 
-
+        
       
     }
 
